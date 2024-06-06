@@ -1,6 +1,8 @@
 # WP-latest
 
 
-git clone https://github.com/JeeKayPee/WP-latest.git
-cd WP-latest
-sh deploy.sh
+1 - git clone https://github.com/JeeKayPee/WP-latest.git
+
+2 - cd WP-latest
+
+3 - sh deploy.sh
